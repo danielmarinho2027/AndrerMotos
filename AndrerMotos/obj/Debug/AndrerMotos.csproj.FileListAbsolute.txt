@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\bin\Debug\AndrerMotos.exe.config
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\bin\Debug\AndrerMotos.exe
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\bin\Debug\AndrerMotos.pdb
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.Frm_Estoque.resources
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.exe
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.pdb
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndrerMotos\obj\Debug\AndrerMotos.FrmEstoque.resources

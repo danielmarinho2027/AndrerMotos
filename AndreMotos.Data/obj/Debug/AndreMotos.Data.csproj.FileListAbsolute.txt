@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\AndreMotos.Data.dll.config
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\AndreMotos.Data.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\AndreMotos.Data.pdb
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\AndreMotos.Dominio.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\AndreMotos.Dominio.pdb
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\obj\Debug\AndreMotos.Data.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\obj\Debug\AndreMotos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\obj\Debug\AndreMotos.Data.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\obj\Debug\AndreMotos.Data.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Data\obj\Debug\AndreMotos.Data.pdb
